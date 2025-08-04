@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://ttinfotechs.com/assets/logo.png" height="100" alt="TT INFOTECHS Logo"/>
+  <img src="https://ttinfotechs.com/loader-image.gif" height="250" alt="TT INFOTECHS Logo"/>
 </p>
 
 <h1 align="center">TT INFOTECHS</h1>
